@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+KB Blog: Welcome to my blog!
 ---
